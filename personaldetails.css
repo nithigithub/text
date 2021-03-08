@@ -1,5 +1,5 @@
 #para {
-    background-colour: blue;
+    background: blue;
 }
 
 .personaldetails {
@@ -11,5 +11,5 @@
 }
 
 .details {
-    colour: green;
+    color: green;
 }
